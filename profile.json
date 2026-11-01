@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "login": "Duxgfun",
+  "seed": "#3983F9",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "wave",
+    "projects",
+    "stats",
+    "streak",
+    "buttons"
+  ],
+  "hidden": [
+    "stats",
+    "buttons",
+    "streak"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Duxgg.fun",
+    "subtitle": "I build interfaces and small useful app, minecraft plugin, etc.",
+    "typing": false,
+    "avatarShape": "soft",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Việt Nam"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly frontend"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:vercel",
+            "label": "Vercel"
+          },
+          {
+            "icon": "brand:soundcloud",
+            "label": "Cloudflare"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "paperfly.site",
+      "TpVFX"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/invite/MhMVBTwTrH"
+      },
+      {
+        "icon": "web",
+        "url": "https://duxgg.fun"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
