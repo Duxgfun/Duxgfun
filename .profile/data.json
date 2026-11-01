@@ -1,8 +1,8 @@
 {
- "key": "c0879b31",
- "stars": 2,
- "contributions": 23,
- "repos": 7,
+ "key": "401302af",
+ "stars": 3,
+ "contributions": 25,
+ "repos": 8,
  "followers": 0,
  "languages": [
   [
@@ -19,19 +19,19 @@
   ],
   [
    "TypeScript",
-   93417
+   215232
+  ],
+  [
+   "JavaScript",
+   148340
+  ],
+  [
+   "CSS",
+   87049
   ],
   [
    "WGSL",
    78028
-  ],
-  [
-   "CSS",
-   12027
-  ],
-  [
-   "JavaScript",
-   11955
   ]
  ],
  "days": [
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 4,
+    "c": 6,
     "day": 1,
     "today": true
    },
@@ -129,6 +129,15 @@
  },
  "pins": [],
  "all": [
+  {
+   "name": "novata",
+   "url": "https://github.com/Duxgfun/novata",
+   "text": "Pure minimalist audio visualizer for Windows. Features seamless wallpaper integration, symmetrical center-out waveform, custom Hex coloring, and in-app music streaming with minimal memory consumption.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
   {
    "name": "paperfly.site",
    "url": "https://github.com/Duxgfun/paperfly.site",
