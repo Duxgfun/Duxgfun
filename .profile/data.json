@@ -1,0 +1,196 @@
+{
+ "key": "a9d75716",
+ "stars": 2,
+ "contributions": 22,
+ "repos": 7,
+ "followers": 0,
+ "languages": [
+  [
+   "Rust",
+   28748757
+  ],
+  [
+   "Python",
+   5213744
+  ],
+  [
+   "Java",
+   3298807
+  ],
+  [
+   "TypeScript",
+   93417
+  ],
+  [
+   "WGSL",
+   78028
+  ],
+  [
+   "CSS",
+   12027
+  ],
+  [
+   "JavaScript",
+   11955
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 3,
+    "day": 1,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 2
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "paperfly.site",
+   "url": "https://github.com/Duxgfun/paperfly.site",
+   "text": "A mini-web for sharing text, images, files, etc.",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "MythicItemSync",
+   "url": "https://github.com/Duxgfun/MythicItemSync",
+   "text": "MythicItemSync keeps MythicMobs items up to date across player inventories after reloads, safely and efficiently.",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Duxgfun",
+   "url": "https://github.com/Duxgfun/Duxgfun",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "dawn",
+   "url": "https://github.com/Duxgfun/dawn",
+   "text": "horizon, for 1.21.4",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "TpVFX",
+   "url": "https://github.com/Duxgfun/TpVFX",
+   "text": "A minecraft teleport animation plugin",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "deathscreen",
+   "url": "https://github.com/Duxgfun/deathscreen",
+   "text": "Plugin thay thế death screen mặc định của Minecraft bằng một death screen của dòng game soul.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "RNG-Core",
+   "url": "https://github.com/Duxgfun/RNG-Core",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
