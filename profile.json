@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "Duxgfun",
-  "seed": "#3983F9",
+  "seed": "#478EFF",
   "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
@@ -11,27 +11,27 @@
     "socials",
     "about",
     "stack",
-    "wave",
     "projects",
     "stats",
     "streak",
+    "wave",
     "buttons"
   ],
-  "hidden": [
-    "stats",
-    "buttons",
-    "streak"
-  ],
+  "hidden": [],
   "hero": {
     "greeting": "Hi, I'm",
     "name": "Duxg",
-    "subtitle": "I build interfaces and small useful app, minecraft plugin, etc.",
-    "typing": false,
-    "avatarShape": "soft",
+    "subtitle": "I build interfaces and small useful tools.",
+    "typing": true,
+    "avatarShape": "cookie12",
     "chips": [
       {
         "icon": "location_on",
         "label": "Việt Nam"
+      },
+      {
+        "icon": "code",
+        "label": "TypeScript · JavaScript "
       }
     ]
   },
@@ -55,12 +55,16 @@
         "title": "Main",
         "items": [
           {
-            "icon": "brand:javascript",
-            "label": "JavaScript"
-          },
-          {
             "icon": "brand:typescript",
             "label": "TypeScript"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
           }
         ]
       },
@@ -76,19 +80,16 @@
             "label": "Vercel"
           },
           {
-            "icon": "brand:soundcloud",
-            "label": "Cloudflare"
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
           }
         ]
       }
     ]
   },
   "projects": {
-    "source": "manual",
-    "repos": [
-      "paperfly.site",
-      "TpVFX"
-    ],
+    "source": "pinned",
+    "repos": [],
     "overrides": {},
     "empty": "No description yet.",
     "fork": "Fork"
@@ -111,16 +112,7 @@
     "days": "days"
   },
   "socials": {
-    "items": [
-      {
-        "icon": "brand:discord",
-        "url": "https://discord.com/invite/MhMVBTwTrH"
-      },
-      {
-        "icon": "web",
-        "url": "https://duxgg.fun"
-      }
-    ],
+    "items": [],
     "variant": "chip",
     "fill": "tonal",
     "card": true
@@ -130,7 +122,7 @@
       {
         "icon": "language",
         "label": "My website",
-        "url": "https://example.com",
+        "url": "https://duxgg.fun",
         "style": "filled"
       },
       {
@@ -139,6 +131,7 @@
         "url": "",
         "style": "tonal"
       }
-    ]
+    ],
+    "card": false
   }
 }
