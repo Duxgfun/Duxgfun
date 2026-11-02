@@ -6,6 +6,10 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
+<a href="https://github.com/Duxgfun/novata"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-novata-dark.svg"><img src="assets/project-novata-light.svg" width="49%" alt="novata"></picture></a>&nbsp;<a href="https://github.com/Duxgfun/paperfly.site"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-paperfly-site-dark.svg"><img src="assets/project-paperfly-site-light.svg" width="49%" alt="paperfly.site"></picture></a>
+
+<a href="https://github.com/Duxgfun/TpVFX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tpvfx-dark.svg"><img src="assets/project-tpvfx-light.svg" width="49%" alt="TpVFX"></picture></a>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>

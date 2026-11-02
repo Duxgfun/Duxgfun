@@ -1,7 +1,7 @@
 {
- "key": "f46fe987",
+ "key": "9a928e5",
  "stars": 3,
- "contributions": 25,
+ "contributions": 27,
  "repos": 8,
  "followers": 0,
  "languages": [
@@ -23,11 +23,11 @@
   ],
   [
    "JavaScript",
-   148340
+   206707
   ],
   [
    "CSS",
-   87049
+   100847
   ],
   [
    "WGSL",
@@ -113,9 +113,13 @@
    {
     "c": 6,
     "day": 1,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 2,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -124,10 +128,38 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 2
  },
- "pins": [],
+ "pins": [
+  {
+   "name": "novata",
+   "url": "https://github.com/Duxgfun/novata",
+   "text": "Pure minimalist audio visualizer for Windows. Features seamless wallpaper integration, symmetrical center-out waveform, custom Hex coloring, and in-app music streaming with minimal memory consumption.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "paperfly.site",
+   "url": "https://github.com/Duxgfun/paperfly.site",
+   "text": "A mini-web for sharing text, images, files, etc.",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "TpVFX",
+   "url": "https://github.com/Duxgfun/TpVFX",
+   "text": "A minecraft teleport animation plugin",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  }
+ ],
  "all": [
   {
    "name": "novata",
