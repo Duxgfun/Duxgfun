@@ -1,37 +1,29 @@
 {
- "key": "c2601f1b",
+ "key": "c40005d0",
  "stars": 3,
  "contributions": 30,
- "repos": 9,
+ "repos": 8,
  "followers": 0,
  "languages": [
   [
-   "Rust",
-   28748757
-  ],
-  [
-   "Python",
-   5213744
-  ],
-  [
-   "Java",
-   3298807
-  ],
-  [
    "JavaScript",
-   191292
+   308830
   ],
   [
    "TypeScript",
-   134022
+   176706
   ],
   [
-   "WGSL",
-   78028
+   "HTML",
+   117291
   ],
   [
    "CSS",
-   63058
+   110710
+  ],
+  [
+   "Java",
+   99007
   ]
  ],
  "days": [
@@ -94,7 +86,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 0,
     "day": 29,
     "today": false
    },
@@ -126,7 +118,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 3,
     "day": 4,
     "today": true
    },
@@ -202,7 +194,7 @@
    "text": "website for Novata app",
    "fork": false,
    "stars": 0,
-   "language": null,
+   "language": "JavaScript",
    "topics": []
   },
   {
@@ -212,15 +204,6 @@
    "fork": false,
    "stars": 0,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "dawn",
-   "url": "https://github.com/Duxgfun/dawn",
-   "text": "horizon, for 1.21.4",
-   "fork": false,
-   "stars": 0,
-   "language": "Rust",
    "topics": []
   },
   {
