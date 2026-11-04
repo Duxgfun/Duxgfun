@@ -1,8 +1,8 @@
 {
- "key": "fefb256b",
+ "key": "c2601f1b",
  "stars": 3,
- "contributions": 28,
- "repos": 8,
+ "contributions": 30,
+ "repos": 9,
  "followers": 0,
  "languages": [
   [
@@ -18,20 +18,20 @@
    3298807
   ],
   [
-   "TypeScript",
-   215232
-  ],
-  [
    "JavaScript",
-   213837
+   191292
   ],
   [
-   "CSS",
-   100847
+   "TypeScript",
+   134022
   ],
   [
    "WGSL",
    78028
+  ],
+  [
+   "CSS",
+   63058
   ]
  ],
  "days": [
@@ -123,17 +123,21 @@
    {
     "c": 1,
     "day": 3,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 4,
     "today": true
    },
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 3,
-  "longest": 3
+  "current": 4,
+  "longest": 4
  },
  "pins": [
   {
@@ -190,6 +194,15 @@
    "fork": false,
    "stars": 1,
    "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "novata-website",
+   "url": "https://github.com/Duxgfun/novata-website",
+   "text": "website for Novata app",
+   "fork": false,
+   "stars": 0,
+   "language": null,
    "topics": []
   },
   {
