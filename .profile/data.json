@@ -1,5 +1,5 @@
 {
- "key": "fd020951",
+ "key": "67ba1656",
  "stars": 3,
  "contributions": 30,
  "repos": 8,
@@ -125,14 +125,18 @@
    {
     "c": 0,
     "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 4,
+  "current": 0,
   "longest": 4
  },
  "pins": [
