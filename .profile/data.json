@@ -1,8 +1,8 @@
 {
- "key": "f2ce2b33",
+ "key": "f343207",
  "stars": 3,
- "contributions": 30,
- "repos": 8,
+ "contributions": 34,
+ "repos": 9,
  "followers": 0,
  "languages": [
   [
@@ -24,6 +24,10 @@
   [
    "Java",
    99007
+  ],
+  [
+   "C",
+   75079
   ]
  ],
  "days": [
@@ -125,14 +129,18 @@
    {
     "c": 0,
     "day": 26,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 27,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 4
  },
  "pins": [
@@ -190,6 +198,15 @@
    "fork": false,
    "stars": 1,
    "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "hpu-score",
+   "url": "https://github.com/Duxgfun/hpu-score",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
    "topics": []
   },
   {
